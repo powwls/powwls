@@ -29,8 +29,8 @@ powwls@github:~$ cat ./current.txt
 
 focus: full-stack web development
 building: data-driven web applications
-learning: Python / Flask / REST APIs
-exploring: networking & IT operations
+learning: Nextjs | Nodejs
+exploring: frameworks | shopify
 </pre>
 
 </td>
