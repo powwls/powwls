@@ -5,13 +5,13 @@
 
 <td width="45%" align="center">
 
-<pre style="color: #0B3D91;">
+<pre><font color="#0B3D91">
  ____   ___  _ 
 |  _ \ / _ \| |
 | |_) | | | | |
    |  __/| |_| | |___
     |_|    \___/|_____|
-</pre>
+</font></pre>
 
 <sub><code>explore. / design. / develop.</code></sub>
 
