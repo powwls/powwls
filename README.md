@@ -20,12 +20,12 @@
 <td width="55%" align="left">
 
 <pre>
-p0wwls@github:~$ whoami
+powwls@github:~$ whoami
 
 Junior Full-Stack Developer
 Network Engineer
 
-p0wwls@github:~$ cat ./current.txt
+powwls@github:~$ cat ./current.txt
 
 focus: full-stack web development
 building: data-driven web applications
@@ -40,8 +40,8 @@ exploring: networking & IT operations
 
 <br>
 
-<a href="https://github.com/p0wwls">
-github.com/p0wwls
+<a href="https://github.com/powwls">
+github.com/powwls
 </a>
 
 </div>
