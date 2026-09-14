@@ -5,7 +5,7 @@
 
 <td width="45%" align="center">
 
-<pre>
+<pre style="color: #0B3D91;">
  ____   ___  _ 
 |  _ \ / _ \| |
 | |_) | | | | |
@@ -22,14 +22,15 @@
 <pre>
 p0wwls@github:~$ whoami
 
-IT Support / IT Operations
 Junior Full-Stack Developer
+IT Support / IT Operations
 
 p0wwls@github:~$ cat ./current.txt
 
-learning: networking & IT operations
-building: TomatoWise
-exploring: Python / Flask / REST APIs
+focus: full-stack web development
+building: data-driven web applications
+learning: Python / Flask / REST APIs
+exploring: networking & IT operations
 </pre>
 
 </td>
