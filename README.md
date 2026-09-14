@@ -23,7 +23,7 @@
 p0wwls@github:~$ whoami
 
 Junior Full-Stack Developer
-IT Support / IT Operations
+Network Engineer
 
 p0wwls@github:~$ cat ./current.txt
 
